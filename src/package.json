@@ -1,11 +1,14 @@
 {
-  "name": "keycloak-ionic",
+  "name": "jep555-keycloak-ionic",
   "version": "14.0.0",
   "description": "Keycloak adapter for Ionicframework with Capacitor support.",
   "main": "keycloak.js",
+  "scripts": {
+    "deploy": "npm publish . --registry https://registry.npmjs.org/\n"
+  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JohannesBauer97/keycloak-ionic.git"
+    "url": "git+https://github.com/jep555/keycloak-ionic.git"
   },
   "keywords": [
     "capacitor",
