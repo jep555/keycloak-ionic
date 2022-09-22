@@ -2071,7 +2071,6 @@
                             if (Capacitor.isIOS) {
                                 Capacitor.Plugins.Browser.close();
                             }
-                            console.log('data logout ', data);
                             kc.clearToken();
                             promise.setSuccess();
                             addUrlListener.remove();

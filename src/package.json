@@ -1,6 +1,6 @@
 {
   "name": "jep555-keycloak-ionic",
-  "version": "14.0.0",
+  "version": "14.0.2",
   "description": "Keycloak adapter for Ionicframework with Capacitor support.",
   "main": "keycloak.js",
   "scripts": {
